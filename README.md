@@ -1,4 +1,4 @@
-# Temporal-Evolution-of-a-Complex-Chemical-Reaction-System
+# Temporal-Evolution-of-a-Chemical-Reaction-System
 
 
 ## Chemical Reaction Simulation Code Explanation
